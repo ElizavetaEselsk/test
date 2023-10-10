@@ -1,0 +1,10 @@
+rootProject.name = 'Lisa_att_1__'
+include 'model'
+include 'driver'
+include 'deserializer'
+include 'generator'
+include 'serializer'
+include 'deserialize'
+include 'serialize'
+include 'serializer'
+
